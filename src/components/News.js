@@ -71,7 +71,7 @@ export default class News extends Component {
 
   render() {
     return (
-      <div className="container " style={{ marginTop: "6%" }}>
+      <div className="container " style={{ marginTop: "90px" }}>
 
 
         <h2 className="text-center m-5">{this.props.heading}</h2>

@@ -9,7 +9,7 @@ import {
 import LoadingBar from 'react-top-loading-bar'
 
 export default class App extends Component {
-  apiKey='28328ef2aa4b468da20ed3e76b0531ed';
+  apiKey='28328ef2aa4b468da20ed3e76b0531ed'; //your api key here ... get your api key from "https://newsapi.org/"
   constructor()
   {
     super();
